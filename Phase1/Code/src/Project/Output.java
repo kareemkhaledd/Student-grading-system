@@ -45,11 +45,11 @@ private char[] grades;
             PrintWriter printWriter = new PrintWriter(fileWriter);
 
             // Writing content to the file
-            printWriter.println("Subject Name: "+ sub.Name+ "       Max Mark:"+sub.FullMark);
-            printWriter.println("Student name    Student number      GPA      Grade");
+            printWriter.println("Subject Name: "+ sub.Name+ "       Max Mark:"+sub.FullMark+"\n\n");
+            printWriter.println("Student name         Student number    \t\t GPA      \t\tGrade");
             for(int i =0;i<sub.students.length;i++)
             {
-                printWriter.println(sub.students[i].Name +"\t\t\t"+sub.students[i].Code+"\t\t\t"+sub.students[i].GPA.getGpa()+"\t\t\t"+sub.students[i].GPA.getGrade());
+                printWriter.println("  "+sub.students[i].Name +"\t\t\t"+sub.students[i].Code+"\t\t "+sub.students[i].GPA.getGpa()+"\t\t\t "+sub.students[i].GPA.getGrade());
             }
             printWriter.close(); // Close the PrintWriter
             
