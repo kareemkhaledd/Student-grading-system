@@ -34,7 +34,7 @@ The output file contains:
 ## Authors
 | Name                      | ID       |
 |---------------------------|----------|
-| Mohamed Abdelhamid Abdel  | 2001087  |
+| Mohamed Abdelhamid Abdel Hamid  | 2001087  |
 | Anas Hamed Ahmed          | 2001584  |
 | Karim Khalid Abdelazim    | 2001091  |
 | Mariam Ahmed Abdelgalil   | 2001273  |
