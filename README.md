@@ -1,5 +1,7 @@
 # Student Grading Application
 
+## Block Diagram
+
 ## Description
 This Java application is designed to process student grades for a given subject. It reads input data from a file, calculates the GPA, and assigns grades to each student, and outputs the results to another file.
 
