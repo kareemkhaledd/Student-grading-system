@@ -1,7 +1,7 @@
 # Student Grading Application
 
 ## Block Diagram
-![BlockDiagram](https://github.com/kareemkhaledd/Student-grading-system/assets/111571591/839ea601-a3bc-4aa0-9504-ea485344bc85)
+![BlockDiagram (1)](https://github.com/kareemkhaledd/Student-grading-system/assets/111571591/42bc4bfd-8487-4ae0-bba4-c6563073d511)
 
 ## Description
 This Java application is designed to process student grades for a given subject. It reads input data from a file, calculates the GPA, and assigns grades to each student, and outputs the results to another file.
